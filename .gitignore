@@ -1,0 +1,20 @@
+# Datasets (too large for git)
+data/DeepPCB/
+data/DsPCBSD/
+data/patches_raw/
+data/patches_split/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Outputs
+*.png
+*.jpg
+!figures/*.png
+EOF
