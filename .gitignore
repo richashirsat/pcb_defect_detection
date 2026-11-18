@@ -18,3 +18,4 @@ venv/
 *.jpg
 !figures/*.png
 EOF
+.vscode/
