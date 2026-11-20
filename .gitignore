@@ -19,3 +19,5 @@ venv/
 !figures/*.png
 EOF
 .vscode/
+patches_split.zip
+resnet50_pcb.pth
